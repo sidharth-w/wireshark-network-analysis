@@ -17,4 +17,4 @@ when applications use HTTP instead of HTTPS.
 
 Sensitive fields were redacted for safety.
 
-![Follow TCP Stream](screenshots/follow-tcp-stream.png)
+![Follow TCP Stream](https://github.com/sidharth-w/wireshark-network-analysis/blob/997d0ed895fa85e486097e3a19702da34b725c46/Screenshot%20(353).png)

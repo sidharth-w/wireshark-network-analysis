@@ -7,7 +7,7 @@ Wireshark-based analysis of HTTP traffic to study packet flow and unencrypted da
 The following screenshot shows live HTTP traffic captured in a controlled lab environment.  
 It includes request/response flows, status codes, and destination servers.
 
-![HTTP Capture]([screenshots/http-capture.png](https://github.com/sidharth-w/wireshark-network-analysis/blob/3cd89ef54de0c5b02c834c70a4db155f05df0dfe/http-capture.png))
+![HTTP Capture](https://github.com/sidharth-w/wireshark-network-analysis/blob/3cd89ef54de0c5b02c834c70a4db155f05df0dfe/http-capture.png)
 
 ---
 
